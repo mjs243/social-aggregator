@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "commander": "^12.1.0",
-    "snoowrap": "^1.23.0",
-    "twit": "^2.2.11"
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "snoowrap": "^1.15.2",
+    "twit": "^1.1.20"
   }
 }
